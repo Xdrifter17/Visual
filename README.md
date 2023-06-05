@@ -1,1 +1,1 @@
-# All My Visualizations are avaible here done with Tableau, PowerBI, Excel.
+# All My Visualizations are available here done with help of Tableau, PowerBI, Excel.
